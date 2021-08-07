@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Syü-Li
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React.Js
+- Salve familia, eu sou o Ruan Pablo 😉.
+- Atualmente estou estudando React.js.
 
-Discord: Syü Li#8106
+
+Discord: O4L34T0R10#1111
 
 <!---
 1SyuLi/1SyuLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
