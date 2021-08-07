@@ -1,4 +1,4 @@
-- Salve familia, eu sou o Ruan Pablo 😉.
+- Salve família, eu sou o Ruan Pablo 😉.
 - Atualmente estou estudando React.js.
 
 
