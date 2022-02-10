@@ -26,6 +26,8 @@
     
 </div></br></br>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1SyuLi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ### Sempre buscando se aperfeiçoar dia após dia.
 ### "Comece onde está, use o que você tem, faça o que você pode."
 
