@@ -17,7 +17,7 @@
 
 </br>
 
-![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=1SyuLi&theme=synthwave)
+![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=FixRuan&theme=synthwave)
 
 # Tecnologias utilizadas atualmente
 
@@ -36,11 +36,11 @@
     
 </div></br></br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1SyuLi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FixRuan&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![bonfire](https://64.media.tumblr.com/d399df8f60eceeaad289f75804ff8e5a/tumblr_o5bue5GcrB1tgzy56o2_250.gifv)
 ### Sempre buscando se aperfeiçoar dia após dia.
 ### "Comece onde está, use o que você tem, faça o que você pode."
 </br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1SyuLi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FixRuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 .
