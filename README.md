@@ -27,7 +27,7 @@
 <br/>
 
 # Estudando sobre
-[![My Skills](https://skillicons.dev/icons?i=nodejs,dotnet,express,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,angular,express,prisma)](https://skillicons.dev)
 <br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FixRuan&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
