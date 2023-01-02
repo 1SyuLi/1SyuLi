@@ -34,5 +34,3 @@
 
 ## "Comece onde está, use o que você tem, faça o que você pode."
 </br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FixRuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-.
