@@ -17,8 +17,6 @@
 
 </br>
 
-![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=FixRuan&theme=synthwave)
-
 # Tecnologias utilizadas
 [![My Skills](https://skillicons.dev/icons?i=react,next,typescript,js,firebase,supabase,graphql,styledcomponents,sass,tailwind,html,css,jest,git,apollo,figma,vscode,neovim)](https://skillicons.dev)
 <br/>
