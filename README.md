@@ -1,18 +1,3 @@
-<div style={{display: 'flex', flex-direction: 'row'}}>
-    <a href="mailto:ruangoio01@gmail.com">
-        <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-     </a>
-    <a href="https://www.linkedin.com/in/ruan-pablo-gomes-rocha-8a4969236/">
-        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-</div>
-
-</br>
-
-![Metrics](/github-metrics.svg)
-
-</br>
-
 # Tecnologias utilizadas
 [![My Skills](https://skillicons.dev/icons?i=react,next,typescript,js,firebase,supabase,styledcomponents,sass,tailwind,html,css,jest,git,figma,vscode)](https://skillicons.dev)
 <br/>
